@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20211027_Structures_Enum_Nulable_Teacher", "20211027_Structures_Enum_Nulable_Teacher\20211027_Structures_Enum_Nulable_Teacher.csproj", "{31EA129D-0B4F-4C94-B12B-9F48643F138B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31EA129D-0B4F-4C94-B12B-9F48643F138B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EA129D-0B4F-4C94-B12B-9F48643F138B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EA129D-0B4F-4C94-B12B-9F48643F138B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EA129D-0B4F-4C94-B12B-9F48643F138B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {679D4870-692F-49CE-9EFE-970D439A005B}
+	EndGlobalSection
+EndGlobal
